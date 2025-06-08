@@ -9,7 +9,7 @@ Users can choose which game to play from a simple main menu and enjoy lightweigh
 
 ## 🕹️ Live Demo
 
-👉 [Play it here](https://yourusername.github.io/js-games/)  
+👉 [Play it here](https://cedriclaceste.github.io/game-hub/)  
 
 
 ## 🎯 Features
