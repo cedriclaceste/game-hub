@@ -1,4 +1,4 @@
-// script.js
+// ---- ROCK PAPER SCISSOR ----
 
 document.addEventListener("DOMContentLoaded", () => {
   const choices = document.querySelectorAll(".choice");
