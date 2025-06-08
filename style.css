@@ -1,4 +1,4 @@
-/* style.css */
+
 
 * {
   margin: 0;
@@ -48,7 +48,7 @@ h1 {
   font-weight: bold;
 }
 
-/* Add below previous styles */
+
 
 .scoreboard {
   font-size: 1.2rem;
@@ -83,7 +83,7 @@ h1 {
   font-weight: bold;
 }
 
-/* Add below the other styles */
+
 
 .board {
   display: grid;
@@ -112,7 +112,7 @@ h1 {
   background-color: #eee;
 }
 
-/* Add this at the bottom of your style.css */
+
 
 .back-btn {
   display: inline-block;
